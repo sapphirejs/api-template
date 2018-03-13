@@ -1,0 +1,3 @@
+bootTheApp = () => {
+  console.log('booting')
+}
